@@ -8,3 +8,5 @@ I have used knowledge of CSS and Flexbox methodology to create this page.
 First of all I had to reset all basic HTML styles and decorated every unit & element by CSS. 
 Flexbox methodology was useful in an order to placing of each unit or element. 
 Also I have applied media requests to make this page more suitable as for laptops as like for phones as like for tablets depend on the sizing of the page
+
+Kindly find a preview below ![](preview.jpg) 
