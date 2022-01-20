@@ -9,4 +9,4 @@ First of all I had to reset all basic HTML styles and decorated every unit & ele
 Flexbox methodology was useful in an order to placing of each unit or element. 
 Also I have applied media requests to make this page more suitable as for laptops as like for phones as like for tablets depend on the sizing of the page
 
-Kindly find a preview below ![](preview.jpg) 
+Kindly find a preview below: ![Oops! It should be a picture](preview.jpg) 
